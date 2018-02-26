@@ -1,0 +1,11 @@
+D:\_EL\GoogleTranslateLOG\bin\Release\GoogleTranslateLOG.exe.config
+D:\_EL\GoogleTranslateLOG\bin\Release\GoogleTranslateLOG.exe
+D:\_EL\GoogleTranslateLOG\bin\Release\GoogleTranslateLOG.pdb
+D:\_EL\GoogleTranslateLOG\obj\Release\GoogleTranslateLOG.frmIndex.resources
+D:\_EL\GoogleTranslateLOG\obj\Release\GoogleTranslateLOG.frmWord.resources
+D:\_EL\GoogleTranslateLOG\obj\Release\GoogleTranslateLOG.frmMain.resources
+D:\_EL\GoogleTranslateLOG\obj\Release\GoogleTranslateLOG.frmTag.resources
+D:\_EL\GoogleTranslateLOG\obj\Release\GoogleTranslateLOG.Properties.Resources.resources
+D:\_EL\GoogleTranslateLOG\obj\Release\GoogleTranslateLOG.csproj.GenerateResource.Cache
+D:\_EL\GoogleTranslateLOG\obj\Release\GoogleTranslateLOG.exe
+D:\_EL\GoogleTranslateLOG\obj\Release\GoogleTranslateLOG.pdb

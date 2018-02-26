@@ -1,0 +1,2 @@
+﻿AIRPRINT or COMPILENUM = AIRPRINT or COMPILENUM
+が省略されたと見なす = Is assumed to be omitted

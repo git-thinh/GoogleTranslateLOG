@@ -1,0 +1,2 @@
+﻿【Expected Result】 "Maintenance mode permission" menu is not displayed = 【Kết quả mong đợi】 Menu "Bảo trì chế độ bảo trì" không được hiển thị
+【Actual result】 "Maintenance mode permission" menu is displayed = 【Kết quả thực tế】 Menu "Bảo trì chế độ bảo dưỡng" được hiển thị
